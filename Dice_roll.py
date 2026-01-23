@@ -5,3 +5,4 @@ def roll_dice():
 
 print("Rolling the dice...")
 print(f"You rolled a {roll_dice()}")
+print("OP")
